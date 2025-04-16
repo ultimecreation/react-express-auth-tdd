@@ -1,0 +1,11 @@
+{
+  "database": {
+    "name": "test",
+    "username": "test-user",
+    "password": "test-password",
+    "dialect": "sqlite",
+    "logging": false,
+    "storage": ":memory:"
+  },
+  "jwtSecret": "secret"
+}

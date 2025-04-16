@@ -1,0 +1,11 @@
+{
+  "database": {
+    "name": "dev",
+    "username": "dev-user",
+    "password": "dev-password",
+    "dialect": "sqlite",
+    "logging": false,
+    "storage": "./database/dev.sqlite"
+  },
+  "jwtSecret": "secret"
+}
